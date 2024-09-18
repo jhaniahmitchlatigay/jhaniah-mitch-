@@ -1,21 +1,12 @@
 body {
-    font-family: Times New Roman, sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: #FAF0DD;
-}
-
-header {
-    color: #fff;
-    padding: 5px 10px;
-    text-align: center;
-    background-image: url("https://64.media.tumblr.com/ab82a744c515d38d0fc550c0723b5280/5ee32fa1f64395e7-c7/s400x600/e5a2fdd49cf599e4c6b97393b143370cf9362f26.jpg");
-    background-position: 15%;
-    background-size: auto;
-}
-header h1 {
-    margin: 0;
+    font-family: Georgia;
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/472/798/desktop-wallpaper-jabami-yumeko-kakegurui-zerochan-anime-board-1770x2345-for-your-mobile-tablet-kakegurui-yumeko-aesthetic.jpg");
+    background-size: cover;
+    background-position: center;
+}    
+p{
+    font-size: 1.0rem;
+    color: white;
 }
 
 nav ul {
@@ -29,7 +20,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: red;
     text-decoration: none;
 }
 
@@ -38,20 +29,7 @@ section {
 }
 
 h2 {
-    color: #F778A1;
-    font-size: 20px;
-}
-
-h3{
-    color: #F778A1;
-    font-size: 20px;
-}
-h4{
-    color: #000000;
-    font-size: 20px;
-}
-h5{
-    color: #000000;
+    color: red;
     font-size: 20px;
 }
 
@@ -66,13 +44,6 @@ h5{
     max-width: 300px;
     height: auto;
 }
-
-footer {
-    background: #F778A1;
-    color: #fff;
-    text-align: center;
-    padding: 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+ footer{
+    color: white;
 }
